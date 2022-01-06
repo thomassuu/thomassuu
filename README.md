@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thomassuu
 - 👀 I’m interested in both front and back end dev
-- 🌱 I’m currently learning software engineering (2nd year) at University of Alberta
+- 🌱 I’m currently learning software engineering (3rd year) at University of Alberta
 - 📫 How to reach me:
-    * Phone: 780-246-6667 (temporarily unavailable)
+    * Phone: 780-246-6667
     * Facebook: https://www.facebook.com/huynhdo.minhnhat
 
 <!---
