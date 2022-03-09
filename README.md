@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomassuu
 - 👀 I’m interested in learning game development
-- 🌱 I’m currently learning software engineering (3rd year) at University of Alberta
+- 🌱 I’m currently a software engineering student (3rd year) at University of Alberta
 - 📫 How to reach me:
     * Phone: 780-246-6667
     * Linkedin: https://www.linkedin.com/in/thomas-huynh-9a68091b6/
