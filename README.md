@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomassuu
-- 🌱 I’m currently a software engineering student (5th year) at University of Alberta
+- 🌱 I’m a recent graduate from the University of Alberta majoring in Computer Engineering (Software Option)
 - 📫 How to reach me:
     * Phone: 780-246-6667
     * Linkedin: https://www.linkedin.com/in/thomas-huynh-9a68091b6/
